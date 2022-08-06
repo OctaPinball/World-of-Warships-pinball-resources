@@ -1,0 +1,30 @@
+StartChar: L
+Encoding: 76 76 11
+Width: 1000
+HStem: -200 200<200 800> 780 20G<0 200>
+VStem: 0 200<0 800>
+LayerCount: 2
+Fore
+SplineSet
+400 0 m 1
+ 600 0 l 1
+ 800 0 l 1
+ 800 -200 l 1
+ 600 -200 l 1
+ 400 -200 l 1
+ 200 -200 l 1
+ 0 -200 l 1
+ 0 0 l 1
+ 0 200 l 1
+ 0 400 l 1
+ 0 600 l 1
+ 0 800 l 1
+ 200 800 l 1
+ 200 600 l 1
+ 200 400 l 1
+ 200 200 l 1
+ 200 0 l 1
+ 400 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
